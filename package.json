@@ -1,4 +1,7 @@
 {
+    "name": "ng-grid-panel",
+    "version": "0.1.0",
+    "main": "./ng-grid-panel.js",
     "devDependencies": {
         "gulp": ">= 0.0.1",
         "gulp-less": ">= 0.0.1",
